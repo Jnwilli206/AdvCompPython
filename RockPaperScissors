@@ -1,3 +1,8 @@
+#Rock Paper Scissors Game
+#by Joey Williams, Dylan Kelley, and Chase Bowers.
+#This program asks the user to pick rock, paper, or scissors and then picks rock, paper, or scissors itself at random to play a game of rock, paper, scissors.
+#The program also prints out the score and win rate percentage of your games.
+#The goals of this project were to use the random module, input, while and for loops, and if statements to create a virtual game of rock, paper, scissors.
 import random
 #Function for inputing a players choice of rock, paper, or scissors. Made by Dylan Kelley.
 def gameInput():
