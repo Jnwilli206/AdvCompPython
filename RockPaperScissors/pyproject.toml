@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "RockPaperScissors"
+version = "0.0.1"
+authors = [ {name= "Joey Williams", email="jwilli41@rams.shepherd.edu"}, {name= "Dylan Kelley", email="dkelle05@rams.shepherd.edu"}, {name= "Chase Bowers", email="CBOWER03@rams.shepherd.edu"}
+]
+description = "A rock paper scissors game."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "random",
+]
+[project.urls]
+Homepage = "https://github.com/Jnwilli206/AdvCompPython"
