@@ -1,0 +1,5 @@
+# Choose Your Own Adventure Game
+
+The game still works without pictures, but to play using pictures you must have the pictures: GameCave.png, GameDog.png, GameDragon.png, GameGhost.png, GameGoblinDoor.png, GameSatyr.png, GameSkeleton.png, GameSnake.png, GameSplitPath.png, and GamePitfall.png in the same file as the code file. 
+
+This is a small short choose your own adventure game (not an RPG that was a little too ambitious) with some secret items that unlock new choices once they're obtained. When you run the program a gui will pop up and your objective is to see "You win." in the textbox either by defeating the dragon or escaping the dragon. I reccomend fullscreening the game and to play you just have to click on the different buttons on the gui until you find a path that leads to a win. Once you are done with the game you can simply exit out of the gui.

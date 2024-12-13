@@ -861,7 +861,7 @@ Game.Slide5Button4.setVisible(False)
 
 #Slide6-------------------------------------------------------------
 #Slide6 Image
-Slide6Image = QPixmap("Pitfall.png")
+Slide6Image = QPixmap("GamePitfall.png")
 Game.Slide6ImageLabel = QLabel(Game)
 Game.Slide6ImageLabel.setPixmap(Slide6Image)
 layout.addWidget(Game.Slide6ImageLabel)

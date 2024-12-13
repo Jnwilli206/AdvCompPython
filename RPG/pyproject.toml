@@ -17,7 +17,7 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 dependencies = [
-    gui = ["pyQt6"]
+    "sys", "QApplication", "QWidget", "QLabel", "QPushButton", "QLineEdit", "QVBoxLayout", "QPixmap"
 ]
 [project.urls]
 Homepage = "https://github.com/Jnwilli206/AdvCompPython"
